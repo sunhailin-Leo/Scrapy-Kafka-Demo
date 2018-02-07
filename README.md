@@ -3,7 +3,7 @@
 ---
 
 * 英文介绍（English）
-English README.md [Here](https://github.com/sunhailin-Leo/Scrapy-Kafka-Demo/README_en.md)
+English README.md [Here](https://github.com/sunhailin-Leo/Scrapy-Kafka-Demo/blob/master/README_en.md)
 
 ---
 <h3 id="Start">开头说两句</h3>
