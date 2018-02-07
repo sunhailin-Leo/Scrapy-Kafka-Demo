@@ -1,0 +1,2 @@
+Scrapy==1.5.0
+pykafka==2.7.0
