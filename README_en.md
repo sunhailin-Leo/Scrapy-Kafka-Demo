@@ -5,7 +5,6 @@
 * 中文介绍（Chinese）
 Chinese README.md [Here](https://github.com/sunhailin-Leo/Scrapy-Kafka-Demo/blob/master/README.md)
 
----
 
 ---
 <h3 id="Start">Say somethine</h3>
