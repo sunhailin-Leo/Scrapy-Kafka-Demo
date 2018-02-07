@@ -1,6 +1,11 @@
 # Scrapy-Kafka Demo
 
 ---
+
+* 英文介绍（English）
+English README.md [Here](https://github.com/sunhailin-Leo/Scrapy-Kafka-Demo/README_en.md)
+
+---
 <h3 id="Start">开头说两句</h3>
 
 * 使用中有什么问题的可以给我提issue，或者直接私聊我
