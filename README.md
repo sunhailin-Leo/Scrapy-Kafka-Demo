@@ -58,7 +58,7 @@ linux: pip3 install requiremnets.txt
 
 * 我大致说下Zookeeper的安装过程(以下都是单点测试, 伪分布和全分布还请各位完整学习完后再搭建)
 
-1. 下载zookeeper
+1. 下载zookeeper.[下载地址](https://www.apache.org/dyn/closer.cgi/zookeeper/)
 2. 解压在conf\下把zoo_sample.cfg 复制为zoo.cfg
 3. 在系统环境变量中创建ZOOKEEPER_HOME值为zookeeper的Home目录
 4. 在PATH中添加zookeeper的bin目录.
@@ -70,7 +70,7 @@ linux: pip3 install requiremnets.txt
 
 * 也一样是单点
 
-1. 下载kafka并解压.
+1. 下载kafka并解压.[下载地址](http://kafka.apache.org/downloads)
 2. 进入解压后的文件夹, 在conf下修改server.properties文件中log.dirs指定log目录
 3. 配置系统环境变量KAFKA_HOME
 4. 在PATH中添加kafka bin/windows的目录（linux的不用理windows那个文件夹）
